@@ -1,0 +1,501 @@
+
+1	
+Jacob Nagro<https://melee.gg/Profile/Index/BanjoCargo> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/411969>
+	8-0-0	16-2-0	24	67.70833%	88.88889%	60.18112%
+2	
+Eli Kassis<https://melee.gg/Profile/Index/Eli_Kassis> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/411952>
+	7-1-0	14-7-0	21	63.54167%	66.66667%	62.31255%
+3	
+Jean-Emmanuel Depraz<https://melee.gg/Profile/Index/JiRock> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/412159>
+	7-1-0	15-5-0	21	62.50000%	75.00000%	56.97212%
+4	
+Brian Boss<https://melee.gg/Profile/Index/borosboss> He/Him
+	
+Gruul Prowess<https://melee.gg/Decklist/View/412035>
+	7-1-0	15-6-0	21	60.41667%	71.42857%	54.81255%
+5	
+Javier Dominguez<https://melee.gg/Profile/Index/JavierDmagic> He/Him
+	
+Jeskai Control<https://melee.gg/Decklist/View/412122>
+	7-1-0	14-6-0	21	59.37500%	70.00000%	56.03700%
+6	
+Jason Ye<https://melee.gg/Profile/Index/JasonILTG> She/They
+	
+Bant Nadu<https://melee.gg/Decklist/View/411774>
+	7-1-0	15-4-0	21	54.68750%	78.94737%	52.38095%
+7	
+Noah Ma<https://melee.gg/Profile/Index/manoah>
+	
+Mono-Black Necro<https://melee.gg/Decklist/View/411824>
+	7-1-0	15-6-0	21	52.60417%	71.42857%	51.13295%
+8	
+David Gonzalez Romero "Playmobil"<https://melee.gg/Profile/Index/Playmobil> He/Him
+	
+Eldrazi Tron<https://melee.gg/Decklist/View/412084>
+	6-1-1	13-4-0	19	71.35417%	76.47059%	64.38837%
+9	
+Brent Vos<https://melee.gg/Profile/Index/Undutchable>
+	
+Mono-Black Necro<https://melee.gg/Decklist/View/411935>
+	6-1-1	14-8-0	19	63.02083%	63.63636%	59.38566%
+10	
+Marcus Wosner<https://melee.gg/Profile/Index/Jeejee> He/Him
+	
+Boros Energy<https://melee.gg/Decklist/View/411797>
+	6-1-1	13-4-0	19	59.37500%	76.47059%	56.47142%
+11	
+Jonny Guttman<https://melee.gg/Profile/Index/ginky51> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/412003>
+	6-2-0	13-8-0	18	73.43750%	61.90476%	64.94057%
+12	
+Marc Peral<https://melee.gg/Profile/Index/Perals>
+	
+Bant Nadu<https://melee.gg/Decklist/View/411616>
+	6-2-0	12-9-0	18	69.27083%	57.14286%	64.61822%
+13	
+Ken Yukuhiro<https://melee.gg/Profile/Index/deathsnow>
+	
+Mardu Energy<https://melee.gg/Decklist/View/411763>
+	6-2-0	12-9-0	18	67.18750%	57.14286%	62.91216%
+14	
+Eliott_dragon<https://melee.gg/Profile/Index/Eliott_dragon> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/412000>
+	6-2-0	13-7-0	18	66.66667%	65.00000%	60.94483%
+15	
+Daniel Goetschel<https://melee.gg/Profile/Index/DanielGoetschel> He/Him
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/411907>
+	6-2-0	14-7-0	18	64.58333%	66.66667%	59.09722%
+16	
+Lauri Törnström<https://melee.gg/Profile/Index/Kazuga> He/Him
+	
+Jeskai Wizards<https://melee.gg/Decklist/View/411889>
+	6-2-0	13-6-0	18	63.54167%	68.42105%	59.26240%
+17	
+Arne Huschenbeth<https://melee.gg/Profile/Index/tabananga> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/412172>
+	6-2-0	13-5-0	18	61.97917%	72.22222%	58.41844%
+18	
+Simon Nielsen<https://melee.gg/Profile/Index/TombSimon> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/412169>
+	6-2-0	14-6-0	18	61.97917%	70.00000%	59.33323%
+19	
+Jonathan Lobo Melamed<https://melee.gg/Profile/Index/InsideGames> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/411984>
+	6-2-0	14-5-0	18	61.45833%	73.68421%	55.16690%
+20	
+Tomasz Sodomirski<https://melee.gg/Profile/Index/SodekMTG>
+	
+Living End<https://melee.gg/Decklist/View/411949>
+	6-2-0	13-8-0	18	61.45833%	61.90476%	56.27410%
+21	
+Etienne Eggenschwiler<https://melee.gg/Profile/Index/dancingeal> They/Them
+	
+Bant Nadu<https://melee.gg/Decklist/View/412082>
+	6-2-0	13-7-0	18	60.71429%	65.00000%	56.73491%
+22	
+Seth Manfield<https://melee.gg/Profile/Index/SethManfieldMTG>
+	
+Mono-Black Necro<https://melee.gg/Decklist/View/411887>
+	6-2-0	13-7-0	18	58.33333%	65.00000%	53.75612%
+23	
+Bart Van Etten<https://melee.gg/Profile/Index/Bartve> He/Him
+	
+Mono-Black Grief<https://melee.gg/Decklist/View/411847>
+	6-2-0	13-8-0	18	54.68750%	61.90476%	51.87771%
+24	
+Charalampos Kikidis<https://melee.gg/Profile/Index/Mogg>
+	
+Bant Nadu<https://melee.gg/Decklist/View/412155>
+	6-2-0	12-6-0	18	54.16667%	66.66667%	51.70269%
+25	
+André Santos<https://melee.gg/Profile/Index/McLovin>
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/412031>
+	6-2-0	13-8-0	18	54.16667%	61.90476%	52.77170%
+26	
+nathanb1992<https://melee.gg/Profile/Index/nathanb1992> He/Him
+	
+Eldrazi Tron<https://melee.gg/Decklist/View/411767>
+	6-2-0	13-8-0	18	53.12500%	61.90476%	54.42601%
+27	
+Marco Del Pivo<https://melee.gg/Profile/Index/PivoUlivo>
+	
+Bant Nadu<https://melee.gg/Decklist/View/412167>
+	6-2-0	13-6-0	18	52.08333%	68.42105%	50.21512%
+28	
+Derrick Davis<https://melee.gg/Profile/Index/derrick_davis> He/Him
+	
+Eldrazi Tron<https://melee.gg/Decklist/View/411745>
+	6-2-0	13-6-0	18	51.56250%	68.42105%	52.43212%
+29	
+Julien Henry<https://melee.gg/Profile/Index/Lyserg> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/411961>
+	6-2-0	14-7-0	18	50.00000%	66.66667%	50.23810%
+30	
+Benny Zeoli<https://melee.gg/Profile/Index/GoldenMagicMonkey> He/Him
+	
+Gruul Eldrazi<https://melee.gg/Decklist/View/411748>
+	6-2-0	13-8-0	18	50.00000%	61.90476%	48.05033%
+31	
+Manuel Alejandro Morales Fernández<https://melee.gg/Profile/Index/Darthkid> He/Him
+	
+Izzet Murktide<https://melee.gg/Decklist/View/411697>
+	6-2-0	13-5-0	18	46.35417%	72.22222%	47.53916%
+32	
+shuhei nakamura<https://melee.gg/Profile/Index/nakshu>
+	
+Jeskai Control<https://melee.gg/Decklist/View/411810>
+	5-1-2	13-5-1	17	53.12500%	70.17544%	51.24279%
+33	
+Francisco Sanchez<https://melee.gg/Profile/Index/Patxi>
+	
+Mono-Black Necro<https://melee.gg/Decklist/View/411833>
+	5-2-1	12-7-0	16	60.41667%	63.15790%	58.97142%
+34	
+William Bossaneli Araujo<https://melee.gg/Profile/Index/lalauwba>
+	
+Mono-Black Grief<https://melee.gg/Decklist/View/412042>
+	5-2-1	12-9-0	16	57.81250%	57.14286%	55.27081%
+35	
+Joey Brautigam<https://melee.gg/Profile/Index/Dialect>
+	
+Bant Nadu<https://melee.gg/Decklist/View/412151>
+	5-2-1	13-8-0	16	56.54762%	61.90476%	53.13820%
+36	
+Nicole Tipple<https://melee.gg/Profile/Index/NicT17> She/Her
+	
+Bant Nadu<https://melee.gg/Decklist/View/411820>
+	5-2-1	11-9-0	16	54.68750%	55.00000%	53.02862%
+37	
+Matt Sperling<https://melee.gg/Profile/Index/Sperling>
+	
+Esper Goryo's<https://melee.gg/Decklist/View/411879>
+	5-2-1	13-8-0	16	50.00000%	61.90476%	46.27469%
+38	
+Samuele Estratti<https://melee.gg/Profile/Index/Samuele>
+	
+Eldrazi Tron<https://melee.gg/Decklist/View/411970>
+	5-2-1	13-5-0	16	46.87500%	72.22222%	47.61696%
+39	
+Lorenzo Pucci<https://melee.gg/Profile/Index/Drugo>
+	
+Mono-Black Grief<https://melee.gg/Decklist/View/410355>
+	5-3-0	11-9-0	15	66.14583%	55.00000%	59.58414%
+40	
+Ivan Errico<https://melee.gg/Profile/Index/Darth_Vaner> He/Him
+	
+Boros Energy<https://melee.gg/Decklist/View/412050>
+	5-3-0	11-9-0	15	65.62500%	55.00000%	60.97439%
+41	
+Adam Boyd<https://melee.gg/Profile/Index/Vlln>
+	
+Mono-Black Necro<https://melee.gg/Decklist/View/411920>
+	5-3-0	13-7-0	15	63.54167%	65.00000%	55.13702%
+42	
+Samuel Pardee<https://melee.gg/Profile/Index/Smdster> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/412125>
+	5-3-0	12-9-0	15	62.50000%	57.14286%	57.24206%
+43	
+Kelvin Chew<https://melee.gg/Profile/Index/Hyper>
+	
+Esper Goryo's<https://melee.gg/Decklist/View/411881>
+	5-3-0	11-7-0	15	61.45833%	61.11111%	56.00896%
+44	
+Marco Vassallo<https://melee.gg/Profile/Index/MarcoV> He/Him
+	
+Jeskai Control<https://melee.gg/Decklist/View/412046>
+	5-3-0	12-9-0	15	60.93750%	57.14286%	57.00511%
+45	
+Stefan Schütz<https://melee.gg/Profile/Index/Sedris>
+	
+Bant Nadu<https://melee.gg/Decklist/View/411975>
+	5-3-0	11-9-0	15	60.93750%	55.00000%	55.27151%
+46	
+Yiren Jiang<https://melee.gg/Profile/Index/yuukuri>
+	
+Jeskai Dress Down<https://melee.gg/Decklist/View/411869>
+	5-3-0	11-7-0	15	59.89583%	61.11111%	57.26716%
+47	
+Greg Orange<https://melee.gg/Profile/Index/Orange>
+	
+Jeskai Control<https://melee.gg/Decklist/View/411598>
+	5-3-0	12-9-0	15	59.37500%	57.14286%	55.24123%
+48	
+Tom White<https://melee.gg/Profile/Index/McWinSauce> He/Him
+	
+Jeskai Control<https://melee.gg/Decklist/View/412009>
+	5-3-0	11-10-0	15	59.37500%	52.38095%	56.38784%
+49	
+Steven Minelli<https://melee.gg/Profile/Index/Stewie15>
+	
+Eldrazi Tron<https://melee.gg/Decklist/View/411994>
+	5-3-0	13-8-0	15	58.85417%	61.90476%	54.04762%
+50	
+MASAHIDE MORIYAMA<https://melee.gg/Profile/Index/SakeIzumo>
+	
+Bant Nadu<https://melee.gg/Decklist/View/411910>
+	5-3-0	10-8-0	15	58.85417%	55.55556%	53.48684%
+51	
+Charles Eiler<https://melee.gg/Profile/Index/StraightShade>
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/411925>
+	5-3-0	11-9-0	15	58.85417%	55.00000%	56.55287%
+52	
+Collin Rountree<https://melee.gg/Profile/Index/Ranchtr33>
+	
+Bant Nadu<https://melee.gg/Decklist/View/412116>
+	5-3-0	12-7-0	15	58.33333%	63.15790%	54.70057%
+53	
+Martin Dominguez<https://melee.gg/Profile/Index/Rulo>
+	
+Jeskai Control<https://melee.gg/Decklist/View/412045>
+	5-3-0	11-8-0	15	58.33333%	57.89474%	54.45175%
+54	
+Laurens Van der Beek<https://melee.gg/Profile/Index/Thegreedygrill>
+	
+Golgari Yawgmoth<https://melee.gg/Decklist/View/411999>
+	5-3-0	11-7-0	15	57.81250%	61.11111%	54.86111%
+55	
+Carlos Oliveros<https://melee.gg/Profile/Index/Olivetti>
+	
+Bant Nadu<https://melee.gg/Decklist/View/412146>
+	5-3-0	13-9-0	15	57.81250%	59.09091%	54.56036%
+56	
+Rodrigo Pinheiro<https://melee.gg/Profile/Index/royce> He/Him
+	
+Izzet Murktide<https://melee.gg/Decklist/View/411776>
+	5-3-0	11-10-0	15	57.81250%	52.38095%	53.89881%
+57	
+Tobias Ehrismann<https://melee.gg/Profile/Index/N01>
+	
+Ruby Storm<https://melee.gg/Decklist/View/411940>
+	5-3-0	11-9-0	15	57.29167%	55.00000%	55.50689%
+58	
+Alan Andrzejewski<https://melee.gg/Profile/Index/Asmodeius>
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/411915>
+	5-3-0	11-8-0	15	57.14286%	57.89474%	53.93842%
+59	
+Olle Råde<https://melee.gg/Profile/Index/ollerade>
+	
+Boros Energy<https://melee.gg/Decklist/View/412113>
+	5-3-0	10-7-0	15	56.77083%	58.82353%	52.52036%
+60	
+Matt Costa<https://melee.gg/Profile/Index/mattccosta>
+	
+Bant Nadu<https://melee.gg/Decklist/View/411964>
+	5-3-0	13-7-0	15	56.25000%	65.00000%	52.04887%
+61	
+Lorenzo Terlizzi<https://melee.gg/Profile/Index/terlollo15>
+	
+Bant Nadu<https://melee.gg/Decklist/View/412061>
+	5-3-0	12-8-0	15	56.25000%	60.00000%	52.91197%
+62	
+Mauro Sasso<https://melee.gg/Profile/Index/Graciasportanto> He/Him
+	
+Jeskai Control<https://melee.gg/Decklist/View/412060>
+	5-3-0	11-8-0	15	55.72917%	57.89474%	54.28301%
+63	
+Rei Hirayama<https://melee.gg/Profile/Index/rerere>
+	
+Jeskai Control<https://melee.gg/Decklist/View/411822>
+	5-3-0	12-8-0	15	55.20833%	60.00000%	52.60054%
+64	
+Mingyang Chen<https://melee.gg/Profile/Index/MingyangChen> He/Him
+	
+Jeskai Dress Down<https://melee.gg/Decklist/View/412071>
+	5-3-0	11-8-0	15	55.20833%	57.89474%	52.83985%
+65	
+Martin Quiroga<https://melee.gg/Profile/Index/Pintusa> He/Him
+	
+Sultai Vengevine<https://melee.gg/Decklist/View/412012>
+	5-3-0	11-10-0	15	55.20833%	52.38095%	53.42094%
+66	
+Luis Scott-Vargas<https://melee.gg/Profile/Index/LSV>
+	
+Ruby Storm<https://melee.gg/Decklist/View/411985>
+	5-3-0	13-9-0	15	54.76191%	59.09091%	51.93053%
+67	
+Connor Mullaly<https://melee.gg/Profile/Index/MullMoney> He/Him
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/411946>
+	5-3-0	10-8-0	15	54.16667%	55.55556%	51.50063%
+68	
+Keisuke Naitou<https://melee.gg/Profile/Index/Meloku123>
+	
+Living End<https://melee.gg/Decklist/View/411650>
+	5-3-0	11-9-0	15	53.64583%	55.00000%	51.08083%
+69	
+yohei hoshino<https://melee.gg/Profile/Index/bonba>
+	
+Jeskai Wizards<https://melee.gg/Decklist/View/411688>
+	5-3-0	11-10-0	15	53.64583%	52.38095%	54.33916%
+70	
+Christoffer Larsen<https://melee.gg/Profile/Index/ChristfferLarsen> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/412171>
+	5-3-0	13-9-0	15	53.57143%	59.09091%	52.12170%
+71	
+Mitchell Tamblyn<https://melee.gg/Profile/Index/EmperorCrocodile>
+	
+Jeskai Control<https://melee.gg/Decklist/View/411934>
+	5-3-0	12-9-0	15	53.12500%	57.14286%	52.63889%
+72	
+Alessandro Danesi<https://melee.gg/Profile/Index/VineMare> He/Him
+	
+Domain Zoo<https://melee.gg/Decklist/View/412041>
+	5-3-0	11-9-0	15	53.12500%	55.00000%	51.26361%
+73	
+Reid Duke<https://melee.gg/Profile/Index/Reiderrabbit>
+	
+Mono-Black Necro<https://melee.gg/Decklist/View/412100>
+	5-3-0	12-10-0	15	51.56250%	54.54546%	52.46782%
+74	
+Edgar Simmons<https://melee.gg/Profile/Index/Yarchimedes> He/Him
+	
+Boros Energy<https://melee.gg/Decklist/View/412002>
+	5-3-0	11-7-0	15	50.00000%	61.11111%	50.94089%
+75	
+Riccardo Biava<https://melee.gg/Profile/Index/bb155lm> He/Him
+	
+Bant Control<https://melee.gg/Decklist/View/411844>
+	5-3-0	11-9-0	15	48.43750%	55.00000%	49.27051%
+76	
+Josep Sanfeliu<https://melee.gg/Profile/Index/MasterPepo> Xe/Xem
+	
+Mono-Black Necro<https://melee.gg/Decklist/View/411829>
+	5-3-0	12-8-0	15	47.91667%	60.00000%	50.29221%
+77	
+Nathanael Perigo<https://melee.gg/Profile/Index/TheAdonis> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/411943>
+	5-3-0	11-8-0	15	47.91667%	57.89474%	49.37709%
+78	
+Matthieu Tassa<https://melee.gg/Profile/Index/Iceburgfun>
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/411754>
+	5-3-0	11-8-0	15	47.39583%	57.89474%	48.14370%
+79	
+cftsoc<https://melee.gg/Profile/Index/cftsoc>
+	
+Four-Color Reclamation<https://melee.gg/Decklist/View/412185>
+	5-3-0	11-9-0	15	45.83333%	55.00000%	46.75325%
+80	
+Mark Stanton<https://melee.gg/Profile/Index/M4RK> He/Him
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/411931>
+	5-3-0	10-8-0	15	44.79167%	55.55556%	47.64141%
+81	
+London Glenn<https://melee.gg/Profile/Index/killerwhale1984> He/Him
+	
+Boros Energy<https://melee.gg/Decklist/View/412049>
+	5-3-0	10-9-0	15	41.14583%	52.63158%	41.77109%
+82	
+Nathan Basser<https://melee.gg/Profile/Index/NateBass> He/Him
+	
+Esper Goryo's<https://melee.gg/Decklist/View/412093>
+	4-3-1	10-9-0	13	59.37500%	52.63158%	56.79730%
+83	
+Slax<https://melee.gg/Profile/Index/Slax> He/Him
+	
+Jeskai Control<https://melee.gg/Decklist/View/412128>
+	4-3-1	9-9-0	13	57.29167%	50.00000%	55.78216%
+84	
+Lucas Fernandes<https://melee.gg/Profile/Index/pururin> He/Him
+	
+Ruby Storm<https://melee.gg/Decklist/View/412014>
+	4-3-1	9-9-0	13	54.16667%	50.00000%	53.30841%
+85	
+Isaac Sears<https://melee.gg/Profile/Index/vonducky> He/Him
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/412187>
+	4-3-1	11-8-0	13	53.64583%	57.89474%	53.19395%
+86	
+Socrates Rozakeas<https://melee.gg/Profile/Index/eljelo>
+	
+Mono-Black Grief<https://melee.gg/Decklist/View/411978>
+	4-3-1	10-9-0	13	53.12500%	52.63158%	52.46877%
+87	
+Cyril Frey<https://melee.gg/Profile/Index/XorKoS> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/412004>
+	4-3-1	12-10-0	13	51.56250%	54.54546%	48.61418%
+88	
+kota ehara<https://melee.gg/Profile/Index/tenniti>
+	
+Jeskai Wizards<https://melee.gg/Decklist/View/411806>
+	4-3-1	10-9-1	13	48.95833%	51.66667%	49.56622%
+89	
+Sean Goddard<https://melee.gg/Profile/Index/Beekeeper> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/412015>
+	4-3-1	10-8-0	13	48.43750%	55.55556%	49.25804%
+90	
+Liam Hoban<https://melee.gg/Profile/Index/SaddlebackLagac> He/Him
+	
+Boros Energy<https://melee.gg/Decklist/View/411996>
+	4-3-1	12-10-0	13	47.39583%	54.54546%	46.65857%
+91	
+Rowan Millers<https://melee.gg/Profile/Index/Pandaexpress> He/Him
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/412144>
+	4-3-1	9-10-0	13	46.87500%	47.36842%	48.79282%
+92	
+Benton Madsen<https://melee.gg/Profile/Index/Benton>
+	
+Boros Energy<https://melee.gg/Decklist/View/412056>
+	4-3-1	11-11-0	13	44.27083%	50.00000%	45.71699%
+93	
+Jin Kim<https://melee.gg/Profile/Index/jinavie> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/412170>
+	4-4-0	10-12-0	12	65.10417%	45.45455%	59.52247%
+94	
+Sam Rolph<https://melee.gg/Profile/Index/Phill_Hellmuthmtg> He/Him
+	
+Ruby Storm<https://melee.gg/Decklist/View/412028>
+	4-4-0	11-10-0	12	64.58333%	52.38095%	58.15476%
+95	
+Alex Friedrichsen<https://melee.gg/Profile/Index/AelaleA37>
+	
+Bant Nadu<https://melee.gg/Decklist/View/411762>
+	4-4-0	11-10-0	12	64.06250%	52.38095%	58.93066%
+96	
+Julius Fan<https://melee.gg/Profile/Index/Fauxglove> He/They
+	
+Jeskai Dress Down<https://melee.gg/Decklist/View/411972>
+	4-4-0	11-9-0	12	62.50000%	55.00000%	59.42460%
+97	
+Matt Sikkink Johnson<https://melee.gg/Profile/Index/MSJ> He/Him
+	
+Temur Eldrazi<https://melee.gg/Decklist/View/411863>
+	4-4-0	10-11-0	12	61.45833%	47.61905%	55.48089%
+98	
+Takumi Matsuura<https://melee.gg/Profile/Index/ura_frst>
+	
+Mardu Energy<https://melee.gg/Decklist/View/411769>
+	4-4-0	9-9-0	12	60.11905%	50.00000%	55.46426%
+99	
+Ben Kleinsman-Leusink-Hill<https://melee.gg/Profile/Index/floptic> He/Him
+	
+Mono-Black Necro<https://melee.gg/Decklist/View/411417>
+	4-4-0	11-9-0	12	58.85417%	55.00000%	53.68716%
+100	
+Jia Bin<https://melee.gg/Profile/Index/AJ830803>
+	
+Jeskai Control<https://melee.gg/Decklist/View/411916>
+	4-4-0	9-9-0	12	58.85417%	50.00000%	54.57154%

@@ -1,0 +1,215 @@
+201	
+Brennan Crawford<https://melee.gg/Profile/Index/Brunnan> He/Him
+	
+-
+	1-2-0	3-4-0	3	44.44444%	42.85714%	43.91534%
+202	
+John Puglisi Clark<https://melee.gg/Profile/Index/Skeptic2304>
+	
+-
+	1-2-0	3-4-0	3	44.44444%	42.85714%	42.06349%
+203	
+KamielC<https://melee.gg/Profile/Index/KamielC>
+	
+-
+	1-2-0	3-5-0	3	44.44444%	37.50000%	47.42064%
+204	
+Sze-Hang Chan<https://melee.gg/Profile/Index/hihi0250> He/Him
+	
+-
+	1-2-0	2-4-0	3	44.44444%	33.33333%	47.61905%
+205	
+nicolas biekert<https://melee.gg/Profile/Index/crazybaloth> He/Him
+	
+-
+	1-2-0	2-4-0	3	44.44444%	33.33333%	46.82540%
+206	
+Deane Calcagni<https://melee.gg/Profile/Index/GoblinguyD> He/Him
+	
+-
+	1-2-0	3-5-0	3	33.33333%	37.50000%	34.72222%
+207	
+James Wilks<https://melee.gg/Profile/Index/ForceOfWilks>
+	
+-
+	0-1-2	2-4-0	2	62.96296%	33.33333%	64.28571%
+208	
+Franck Pappas<https://melee.gg/Profile/Index/O_danielakos>
+	
+-
+	0-1-2	3-4-0	2	48.14815%	42.85714%	47.61905%
+209	
+Giuliano Benincasa<https://melee.gg/Profile/Index/giulianobenincasa>
+	
+-
+	0-2-1	3-5-0	1	70.37037%	37.50000%	58.33333%
+210	
+Matt Sperling<https://melee.gg/Profile/Index/Sperling>
+	
+-
+	0-2-1	3-5-0	1	66.66667%	37.50000%	55.55556%
+211	
+Torri<https://melee.gg/Profile/Index/Torri>
+	
+-
+	0-2-1	1-5-1	1	62.96296%	19.04762%	65.47619%
+212	
+RIley Jones<https://melee.gg/Profile/Index/Hazzrd> He/Him
+	
+-
+	0-2-1	2-5-0	1	48.14815%	28.57143%	52.97619%
+213	
+Rick hup beng Lee<https://melee.gg/Profile/Index/spritmonger1205>
+	
+-
+	0-2-1	2-5-0	1	48.14815%	28.57143%	50.00000%
+214	
+Socrates Rozakeas<https://melee.gg/Profile/Index/eljelo>
+	
+-
+	0-2-1	1-5-0	1	48.14815%	16.66667%	52.38095%
+215	
+xu yucheng<https://melee.gg/Profile/Index/1508250595>
+	
+-
+	0-2-1	2-5-0	1	44.44444%	28.57143%	43.05556%
+216	
+Marco cammilluzzi<https://melee.gg/Profile/Index/Bomberboss>
+	
+-
+	0-3-0	2-6-0	0	70.37037%	25.00000%	65.47619%
+217	
+Mark Stanton<https://melee.gg/Profile/Index/M4RK> He/Him
+	
+-
+	0-3-0	0-6-0	0	66.66667%	0.00000%	66.66667%
+218	
+RIKI KAMO<https://melee.gg/Profile/Index/ColletClow> He/Him
+	
+-
+	0-3-0	2-6-0	0	59.25926%	25.00000%	52.38095%
+219	
+Kenta Harane<https://melee.gg/Profile/Index/jsp>
+	
+-
+	0-3-0	1-6-0	0	59.25926%	14.28571%	61.30952%
+220	
+Chun He<https://melee.gg/Profile/Index/Miror_DD> He/Him
+	
+-
+	0-3-0	1-6-0	0	59.25926%	14.28571%	58.33333%
+221	
+Bora Sarıoğlu<https://melee.gg/Profile/Index/Illuminatea>
+	
+-
+	0-3-0	1-6-0	0	59.25926%	14.28571%	57.93651%
+222	
+gennaro ciampa mango<https://melee.gg/Profile/Index/Parsival>
+	
+-
+	0-3-0	1-6-0	0	59.25926%	14.28571%	57.14286%
+223	
+Rodrigo Iglesias Iglesias<https://melee.gg/Profile/Index/bultaco78>
+	
+-
+	0-3-0	2-6-0	0	55.55556%	25.00000%	53.76984%
+224	
+Roby Moreau<https://melee.gg/Profile/Index/sweetito> He/Him
+	
+-
+	0-3-0	2-6-0	0	55.55556%	25.00000%	51.78571%
+225	
+MassimoVerrecchia<https://melee.gg/Profile/Index/MassimoVerrecchia>
+	
+-
+	0-3-0	1-6-0	0	55.55556%	14.28571%	56.94444%
+226	
+Jia Wu<https://melee.gg/Profile/Index/higgs> He/Him
+	
+-
+	0-3-0	1-6-0	0	55.55556%	14.28571%	52.18254%
+227	
+Robin Chemnitz<https://melee.gg/Profile/Index/RetroKC>
+	
+-
+	0-3-0	1-6-0	0	55.55556%	14.28571%	52.18254%
+228	
+PrimeTime32<https://melee.gg/Profile/Index/PrimeTime32> He/Him
+	
+-
+	0-3-0	0-6-0	0	55.55556%	0.00000%	55.82011%
+229	
+Yuta Takahashi<https://melee.gg/Profile/Index/Dazai> He/Him
+	
+-
+	0-3-0	3-6-0	0	51.85185%	33.33333%	49.00794%
+230	
+Thierry Ramboa<https://melee.gg/Profile/Index/Elgranboa>
+	
+-
+	0-3-0	2-6-0	0	44.44444%	25.00000%	48.14815%
+231	
+Weng Heng Soh<https://melee.gg/Profile/Index/Sohlucky> He/Him
+	
+-
+	0-3-0	1-6-0	0	44.44444%	14.28571%	50.59524%
+232	
+Borja Yañez Carvajal<https://melee.gg/Profile/Index/Psyco13>
+	
+-
+	0-3-0	1-6-0	0	44.44444%	14.28571%	49.00794%
+233	
+Angstschreeuw<https://melee.gg/Profile/Index/Angstschreeuw> He/Him
+	
+-
+	0-3-0	1-6-0	0	44.44444%	14.28571%	47.08995%
+234	
+ElkVinci<https://melee.gg/Profile/Index/ElkVinci>
+	
+-
+	0-3-0	1-6-0	0	44.44444%	14.28571%	46.23016%
+235	
+Noah Rabin<https://melee.gg/Profile/Index/Lockjaw> He/Him
+	
+-
+	0-3-0	1-6-0	0	44.44444%	14.28571%	42.06349%
+236	
+victor perez<https://melee.gg/Profile/Index/changoleon> He/Him
+	
+-
+	0-3-0	0-6-0	0	44.44444%	0.00000%	53.17460%
+237	
+Hanzhi Li<https://melee.gg/Profile/Index/Xpz98> He/Him
+	
+-
+	0-3-0	0-6-0	0	44.44444%	0.00000%	49.40476%
+238	
+London Glenn<https://melee.gg/Profile/Index/killerwhale1984> He/Him
+	
+-
+	0-3-0	0-6-0	0	44.44444%	0.00000%	47.61905%
+239	
+Jeremy Mackney<https://melee.gg/Profile/Index/E9> He/Him
+	
+-
+	0-3-0	0-6-0	0	44.44444%	0.00000%	46.23016%
+240	
+Adam Jazwinski<https://melee.gg/Profile/Index/zajjaz>
+	
+-
+	0-3-0	0-6-0	0	44.44444%	0.00000%	46.23016%
+241	
+Shawn Dhaliwal<https://melee.gg/Profile/Index/Dhawally>
+	
+-
+	0-3-0	2-6-0	0	37.03704%	25.00000%	45.83333%
+242	
+Andy Garcia-Romo<https://melee.gg/Profile/Index/andygarciaromo> He/Him
+	
+-
+	0-3-0	2-6-0	0	33.33333%	25.00000%	37.89683%
+243	
+TheManLand<https://melee.gg/Profile/Index/TheManLand>
+	
+-
+	0-3-0	2-6-0	0	33.33333%	25.00000%	37.89683%
