@@ -9,3 +9,4 @@
 5. Place Constructed tournaments in decklistRaws/constructed
 6. Place Limited tournaments in decklistRaws/draft
 7. run cook.py
+8. The standings/decklists will be exported in csv format in the same directory as cook.py
