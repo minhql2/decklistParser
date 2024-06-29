@@ -1,38 +1,62 @@
 import csv
+import re
+def parsePage(decklistDict, lines):
+    seenPoints = False
+    seenNumber = False
+    seenName = False
+    seenDecklist = False
+    number = 0
 
-def parsePage(decklistDict, count, dictCount, lines):
+    pointsPattern = re.compile("Points")
+    numberPattern = re.compile("[0-9]+")
+    pattern = re.compile("([0-9]+(-[0-9]+)+)")
+    endPattern = re.compile("Displaying")
+    decklistPattern = re.compile("[A-Za-z]+")
+    decklistPattern2 = re.compile("^(?!.*>).*")
+
     for line in lines:
-        count+=1
-        if (((count+2) % 5) == 0 and count > 2):
-            name = line.split('<')[0]
-            decklistDict[dictCount] = (name, "", "")
-        elif (count % 5 == 0):
-            decklist = line.split('<')[0]
-            decklist1 = decklistDict.get(dictCount)
-            decklistDict[dictCount] = (decklist1[0], decklist, "")
-        elif ((((count-1) % 5) == 0) and count > 5):
-            if(len(line.split("\t")) <= 1):
-                continue
-            standing = line.split("\t")[1]
-            decklist = decklistDict.get(dictCount)
-            decklistDict[dictCount] = (decklist[0], decklist[1], standing)
-            dictCount+=1
 
-file1 = open('page1Text.txt', 'r')
-lines1 = file1.readlines()
+        if endPattern.match(line):
+            return
+
+        if pointsPattern.match(line):
+            seenPoints = True
+
+        if not seenPoints:
+            continue
+
+        if numberPattern.match(line):
+            seenNumber = True
+            number = int(line)
+        elif seenNumber and not seenName:
+            name = line.split('<')[0]
+            decklistDict[number] = (name, "", "")
+            seenName = True
+        elif seenNumber and seenName and not seenDecklist:
+            if len(line.split('<')) > 0:
+                if decklistPattern.match(line.split('<')[0]) and decklistPattern2.match(line.split('<')[0]):
+                    decklistName = line.split('<')[0]
+                    entry = decklistDict.get(number)
+                    decklistDict[number] = (entry[0], decklistName, "")
+                    seenDecklist = True
+        elif seenNumber and seenNumber and seenDecklist:
+            if len(line.split("\t")) <= 1:
+                    continue
+
+            standing = line.split("\t")[1]
+            if pattern.match(standing):
+                entry = decklistDict.get(number)
+                decklistDict[number] = (entry[0], entry[1], standing)
+                seenName = False
+                seenNumber = False
+                seenDecklist = False
 
 decklistDict = {}
 
-count = 0
-dictCount = 0
-parsePage(decklistDict, count, dictCount, lines1)
-
-file2 = open('page2Text.txt', 'r')
+file2 = open('rawFileConstructed.txt', 'r')
 lines2 = file2.readlines()
 
-count = 100
-dictCount = 100
-parsePage(decklistDict, count, dictCount, lines2)
+parsePage(decklistDict, lines2)
 
 
 with open('decklists.csv', 'w') as csv_file:

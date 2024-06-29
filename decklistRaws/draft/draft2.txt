@@ -1,0 +1,1007 @@
+Melee Logo <https://melee.gg/>
+Melee Logo <https://melee.gg/>
+
+  * What's New <https://melee.gg/Home/WhatsNew>
+  * Tournaments <https://melee.gg/Tournament/Index>
+  * Decklists <#>
+    *Decklists
+
+    *
+    ------------------------------------------------------------------------
+    Decklist Database <https://melee.gg/Decklists> Advanced Decklist
+    Search <https://melee.gg/Decklist/Search> Your Decklist Library
+    <https://melee.gg/Profile/Decklists>
+  * Organizers <#>
+    *Organize
+
+    *
+    ------------------------------------------------------------------------
+    Become an Organizer <https://melee.gg/Organization/Create> Create an
+    Organization <https://melee.gg/Organization/Create> Apply to host
+    DreamHack RCQs <https://melee.gg/DreamHack/Apply> Apply to host SCG
+    RCQs <https://melee.gg/RCQ/Apply> Documentation <https://
+    help.melee.gg/> All Organizers <https://melee.gg/Organization/Index>
+    Your Organizations <https://melee.gg/Profile/Organizations> Your
+    Organizer Dashboard <https://melee.gg/Organization/Dashboard> Create
+    a Tournament <https://melee.gg/Tournament/Edit> Create a Tournament
+    Hub <https://melee.gg/TournamentHub/Edit>
+  * MTG RCQs <#>
+    *DreamHack Regional Championships
+
+    *
+    ------------------------------------------------------------------------
+    Info on DreamHack RCQ Event Kits <https://melee.gg/DreamHack> Apply
+    to host DreamHack RCQs <https://melee.gg/DreamHack/Apply> Purchase
+    DreamHack RCQ Event Kits <https://melee.gg/DreamHack/Purchase>
+    Submit/Edit RCQ Winner Info <https://melee.gg/DreamHack/Winners>
+    *Star City Games Regional Championships
+
+    *
+    ------------------------------------------------------------------------
+    Info on SCG RCQ Event Kits <https://melee.gg/RCQ> Apply to host SCG
+    RCQs <https://melee.gg/RCQ/Apply> Purchase SCG RCQ Event Kits
+    <https://melee.gg/RCQ/Purchase> Submit/Edit RCQ Winner Info
+    <https://melee.gg/RCQ/Winners>
+  *
+
+    Language <#> 中文 (Chinese) <#> English (English) <#> Français
+    (French) <#> Deutsch (German) <#> Italiano (Italian) <#> 日本語
+    (Japanese) <#> Português (Portuguese) <#> Español (Spanish) <#>
+
+  * mrsapper <#>
+    mrsapper
+    Minh Le Sign Out <https://keyrune.fusionauth.io/oauth2/logout?
+    client_id=e1822b87-d76a-4c54-8831-9ca9173762d7&tenantId=6964f492-
+    bc8f-fd97-ad26-8d0a659944d7>
+    Signed in as mrsapper
+    Manage Your Account Settings <https://melee.gg/Profile/Settings>
+    Recommended Actions<https://melee.gg/Actions>
+    Your Tournaments <https://melee.gg/Profile/Tournaments> Your
+    Decklists <https://melee.gg/Profile/Decklists>
+    ------------------------------------------------------------------------
+    Documentation <https://help.melee.gg/> What's New<https://melee.gg/
+    Home/WhatsNew>
+    ------------------------------------------------------------------------
+    Privacy Policy <https://melee.gg/Policy/Privacy> • Terms of Service
+    <https://melee.gg/Policy/Terms>
+
+Pro Tour Modern Horizons 3 - tournament brand image
+
+Today at 3:00 AM EDT
+
+
+      Pro Tour Modern Horizons 3
+
+<https://melee.gg/Tournament/View/105258>
+
+Game: Magic: The Gathering
+
+Organized by: Wizards of the Coast <https://melee.gg/Hub/Organization/588>
+
+Tournament Type: Tabletop
+
+Formats are Modern Constructed and Modern horizons 3 Booster Draft.
+
+More information about Pro Tour Modern Horizons 3 can be found at https://magic.gg/events/pro-tour-modern-horizons-3-fact-sheet-for-competitors
+
+Free to Play | Invite Only | Format: Draft, Modern, Draft2 | In Progress
+| 243 of 400 Enrolled Players
+
+  *
+    Description
+
+  *
+    Rules
+
+  *
+    Schedule
+
+  *
+    Prizes
+
+  *
+    Contact
+
+Pro Tour Modern Horizons 3 Fact Sheet <https://magic.gg/events/pro-tour-
+modern-horizons-3-fact-sheet-for-competitors>
+
+For paper printouts generated for this tournament, participants' names
+will be displayed using their full real names, irrespective of their
+profile's name display settings. This specification applies solely to
+printed materials.
+
+Pro Tour Modern Horizons 3 Fact Sheet <https://magic.gg/events/pro-tour-
+modern-horizons-3-fact-sheet-for-competitors>
+
+Pro Tour Modern Horizons 3 Fact Sheet <https://magic.gg/events/pro-tour-
+modern-horizons-3-fact-sheet-for-competitors>
+
+The organizer has agreed to pay out prizes in 9 days or less.
+
+Pro Tour Modern Horizons 3 Fact Sheet <https://magic.gg/events/pro-tour-
+modern-horizons-3-fact-sheet-for-competitors>
+
+PremierPlay@wizards.com
+
+
+          Registration
+
+
+×
+
+
+        Standings
+
+Round 1 Round 2 Round 3 Round 4 Round 5 Round 6 Round 7 Round 8 Round 9
+Round 10 Round 11 Round 12 Round 13 Round 14 Round 15 Round 16
+Quarterfinals Semifinals Finals
+Visibility
+Results Per Page
+
+25 per page
+50 per page
+100 per page
+250 per page
+500 per page
+Column Visibility
+
+Rank
+
+Players/Teams
+
+Decklist
+
+Match Record
+
+Game Record
+
+Points
+
+OMW%
+
+TGW%
+
+OGW%
+
+Team Id
+
+Opponent Count
+
+Reset <#>
+Apply
+
+Rank	Players/Teams	Decklist	Match Record	Game Record	Points
+
+Rank
+	
+Players/Teams
+	
+Decklist
+	
+Match Record
+	
+Game Record
+	
+Points
+101	
+Reid Duke<https://melee.gg/Profile/Index/Reiderrabbit>
+	
+-
+	2-1-0	5-3-0	6
+102	
+Noah Ma<https://melee.gg/Profile/Index/manoah>
+	
+-
+	2-1-0	5-3-0	6
+103	
+Jia Bin<https://melee.gg/Profile/Index/AJ830803>
+	
+-
+	2-1-0	5-3-0	6
+104	
+cftsoc<https://melee.gg/Profile/Index/cftsoc>
+	
+-
+	2-1-0	4-3-0	6
+105	
+Shota Yasooka<https://melee.gg/Profile/Index/yaya3> He/Him
+	
+Draft W-B-G<https://melee.gg/Decklist/View/413426>
+	2-1-0	4-3-0	6
+106	
+kota ehara<https://melee.gg/Profile/Index/tenniti>
+	
+-
+	2-1-0	4-3-0	6
+107	
+yohei hoshino<https://melee.gg/Profile/Index/bonba>
+	
+-
+	2-1-0	4-3-0	6
+108	
+GlosuU<https://melee.gg/Profile/Index/GlosuU> He/Him
+	
+-
+	2-1-0	5-4-0	6
+109	
+Zacharia Bishop<https://melee.gg/Profile/Index/Znasty> He/Him
+	
+-
+	2-1-0	4-4-0	6
+110	
+Alexander Hayne<https://melee.gg/Profile/Index/InsayneHayne> He/Him
+	
+-
+	2-1-0	4-2-0	6
+111	
+Jason Ye<https://melee.gg/Profile/Index/JasonILTG> She/They
+	
+-
+	2-1-0	5-3-0	6
+112	
+KOUSUKE CHINEN<https://melee.gg/Profile/Index/fuya>
+	
+-
+	2-1-0	5-3-0	6
+113	
+Quinn Tonole<https://melee.gg/Profile/Index/quinniac>
+	
+-
+	2-1-0	4-3-0	6
+114	
+Jason Chan<https://melee.gg/Profile/Index/Amaz>
+	
+-
+	2-1-0	4-3-0	6
+115	
+Josep Sanfeliu<https://melee.gg/Profile/Index/MasterPepo> Xe/Xem
+	
+-
+	2-1-0	4-3-0	6
+116	
+Gabriel Nassif<https://melee.gg/Profile/Index/yellowhat> He/Him
+	
+-
+	2-1-0	4-3-0	6
+117	
+Joseph Cruz<https://melee.gg/Profile/Index/Falco_Lombardi> He/Him
+	
+-
+	2-1-0	4-3-0	6
+118	
+Toru Inoue<https://melee.gg/Profile/Index/Migrat>
+	
+-
+	1-1-1	3-3-0	4
+119	
+Matti Kuisma<https://melee.gg/Profile/Index/Matti> He/Him
+	
+-
+	1-1-1	3-4-0	4
+120	
+José Luis López<https://melee.gg/Profile/Index/Zidonia> He/Him
+	
+-
+	1-1-1	3-4-0	4
+121	
+Kazune Kosaka<https://melee.gg/Profile/Index/teruteru8140> He/Him
+	
+-
+	1-1-1	4-4-0	4
+122	
+Benton Madsen<https://melee.gg/Profile/Index/Benton>
+	
+-
+	1-1-1	4-4-0	4
+123	
+Samuele Estratti<https://melee.gg/Profile/Index/Samuele>
+	
+-
+	1-1-1	4-3-0	4
+124	
+Liam Hoban<https://melee.gg/Profile/Index/SaddlebackLagac> He/Him
+	
+-
+	1-1-1	4-4-0	4
+125	
+Miguel Castro<https://melee.gg/Profile/Index/MiguelCaster>
+	
+-
+	1-1-1	3-4-0	4
+126	
+Rowan Millers<https://melee.gg/Profile/Index/Pandaexpress> He/Him
+	
+-
+	1-1-1	3-4-0	4
+127	
+cain_rianhard<https://melee.gg/Profile/Index/cain_rianhard> They/Them
+	
+-
+	1-1-1	3-4-0	4
+128	
+Jesse Colford<https://melee.gg/Profile/Index/rockywrench>
+	
+-
+	1-1-1	3-4-0	4
+129	
+Erick Manuel Lopez Basulto<https://melee.gg/Profile/Index/ErickLB> He/Him
+	
+-
+	1-1-1	3-4-1	4
+130	
+Backoff<https://melee.gg/Profile/Index/Backoff>
+	
+-
+	1-1-1	3-3-0	4
+131	
+Lucas Fernandes<https://melee.gg/Profile/Index/pururin> He/Him
+	
+-
+	1-1-1	3-3-0	4
+132	
+Ben Tudman<https://melee.gg/Profile/Index/BenT> He/Him
+	
+-
+	1-2-0	2-4-0	3
+133	
+Yiren Jiang<https://melee.gg/Profile/Index/yuukuri>
+	
+-
+	1-2-0	2-4-0	3
+134	
+NiHaoDyLan<https://melee.gg/Profile/Index/NiHaoDyLan> He/Him
+	
+-
+	1-2-0	4-4-0	3
+135	
+Will Krueger<https://melee.gg/Profile/Index/Xwhale>
+	
+-
+	1-2-0	2-4-0	3
+136	
+Alessandro Danesi<https://melee.gg/Profile/Index/VineMare> He/Him
+	
+-
+	1-2-0	2-4-0	3
+137	
+Chris Danis<https://melee.gg/Profile/Index/digdanis> He/Him
+	
+-
+	1-2-0	4-4-0	3
+138	
+Raphael Levy<https://melee.gg/Profile/Index/Hahamoud> He/Him
+	
+-
+	1-2-0	4-4-0	3
+139	
+Patrick Wu<https://melee.gg/Profile/Index/Valident> He/Him
+	
+-
+	1-2-0	4-4-0	3
+140	
+ANTONIO GUZMAN VAZQUEZ<https://melee.gg/Profile/Index/AntonioGuzVaz93>
+He/Him
+	
+-
+	1-2-0	4-5-0	3
+141	
+Edgar Magalhaes<https://melee.gg/Profile/Index/EdgarMtG>
+	
+-
+	1-2-0	4-5-0	3
+142	
+Liam Kane<https://melee.gg/Profile/Index/jkony_>
+	
+-
+	1-2-0	4-5-0	3
+143	
+Theodore Jung<https://melee.gg/Profile/Index/Theo_Jung>
+	
+-
+	1-2-0	3-4-0	3
+144	
+Dan MacDonald<https://melee.gg/Profile/Index/mtgdanmac>
+	
+-
+	1-2-0	3-4-0	3
+145	
+Andrea Mengucci<https://melee.gg/Profile/Index/Mengu09> He/Him
+	
+-
+	1-2-0	3-4-0	3
+146	
+Beenew<https://melee.gg/Profile/Index/Beenew>
+	
+-
+	1-2-0	3-4-0	3
+147	
+Adam Edelson<https://melee.gg/Profile/Index/_goblinlackey>
+	
+-
+	1-2-0	3-5-0	3
+148	
+Nick Nemeth<https://melee.gg/Profile/Index/sixth>
+	
+-
+	1-2-0	3-5-0	3
+149	
+Venom1<https://melee.gg/Profile/Index/Venom1> He/Him
+	
+-
+	1-2-0	3-5-0	3
+150	
+Viking Undén<https://melee.gg/Profile/Index/Metharon> He/Him
+	
+-
+	1-2-0	3-5-0	3
+151	
+scorpion87<https://melee.gg/Profile/Index/scorpion87> He/Him
+	
+-
+	1-2-0	2-5-0	3
+152	
+Benny Zeoli<https://melee.gg/Profile/Index/GoldenMagicMonkey> He/Him
+	
+-
+	1-2-0	3-4-0	3
+153	
+federico colaianni<https://melee.gg/Profile/Index/fedecola95>
+	
+-
+	1-2-0	2-5-0	3
+154	
+David Olsen<https://melee.gg/Profile/Index/CanadianBac0nz> He/Him
+	
+-
+	1-2-0	3-4-0	3
+155	
+Kevin Anctil<https://melee.gg/Profile/Index/Kevor24>
+	
+-
+	1-2-0	3-5-0	3
+156	
+Marco Fabrizi<https://melee.gg/Profile/Index/bondoks9> He/Him
+	
+-
+	1-2-0	2-4-0	3
+157	
+Marcio Carvalho<https://melee.gg/Profile/Index/Kbol_>
+	
+-
+	1-2-0	2-5-0	3
+158	
+Jake Beardsley<https://melee.gg/Profile/Index/magma728> He/Him
+	
+Draft W-B-R-G<https://melee.gg/Decklist/View/413453>
+	1-2-0	4-4-0	3
+159	
+Zhao Li<https://melee.gg/Profile/Index/zhaothecow>
+	
+-
+	1-2-0	4-4-0	3
+160	
+Jose Gabriel Hilario<https://melee.gg/Profile/Index/Raydric> He/Him
+	
+-
+	1-2-0	3-4-0	3
+161	
+Jeffrey Carr<https://melee.gg/Profile/Index/andone> He/Him
+	
+-
+	1-2-0	3-4-0	3
+162	
+Willy Edel<https://melee.gg/Profile/Index/Edel>
+	
+-
+	1-2-0	3-4-0	3
+163	
+Daniel Kristoff<https://melee.gg/Profile/Index/LordBreakfast> He/Him
+	
+-
+	1-2-0	3-4-0	3
+164	
+Charles Namchaisiri<https://melee.gg/Profile/Index/Heavenscythe>
+	
+-
+	1-2-0	3-4-0	3
+165	
+Thieoes<https://melee.gg/Profile/Index/Thieoes>
+	
+-
+	1-2-0	3-4-0	3
+166	
+Liu Guanlin<https://melee.gg/Profile/Index/Raffles> He/Him
+	
+-
+	1-2-0	3-4-0	3
+167	
+Bernardo Torres<https://melee.gg/Profile/Index/BERNASTORRES>
+	
+-
+	1-2-0	3-4-0	3
+168	
+Christian Calcano<https://melee.gg/Profile/Index/Ritsu>
+	
+-
+	1-2-0	3-4-0	3
+169	
+Alexander Mertins<https://melee.gg/Profile/Index/Coachaxel>
+	
+-
+	1-2-0	3-4-0	3
+170	
+olivier ruel-mailfert<https://melee.gg/Profile/Index/olivierruelmailfert>
+	
+-
+	1-2-0	3-4-0	3
+171	
+Pier Franchini<https://melee.gg/Profile/Index/Dragonero10> He/Him
+	
+-
+	1-2-0	3-4-0	3
+172	
+CrisMTG77<https://melee.gg/Profile/Index/CrisMTG77>
+	
+-
+	1-2-0	2-3-1	3
+173	
+Jonnymagic<https://melee.gg/Profile/Index/Jonnymagic>
+	
+-
+	1-2-0	3-5-0	3
+174	
+梁 健伟<https://melee.gg/Profile/Index/qxxb>
+	
+-
+	1-2-0	3-5-0	3
+175	
+Brian Zilles<https://melee.gg/Profile/Index/vmprnighthwk>
+	
+-
+	1-2-0	3-5-0	3
+176	
+Allen Wu<https://melee.gg/Profile/Index/nalkpas> He/Him
+	
+-
+	1-2-0	3-5-0	3
+177	
+Dominic Harvey<https://melee.gg/Profile/Index/domhrv> He/Him
+	
+-
+	1-2-0	3-5-0	3
+178	
+Conor Hughes<https://melee.gg/Profile/Index/hughesco> He/Him
+	
+-
+	1-2-0	3-5-0	3
+179	
+Anthony Lee<https://melee.gg/Profile/Index/mtgbentcard> He/Him
+	
+-
+	1-2-0	3-5-0	3
+180	
+Pedro Perrini<https://melee.gg/Profile/Index/Schiaveto>
+	
+-
+	1-2-0	3-5-0	3
+181	
+James Larsen-Scott<https://melee.gg/Profile/Index/Lavaridge> He/Him
+	
+-
+	1-2-0	3-5-0	3
+182	
+claudio miranda<https://melee.gg/Profile/Index/claudioh> He/Him
+	
+-
+	1-2-0	3-5-0	3
+183	
+Kevin Thanakit<https://melee.gg/Profile/Index/Kthanakit>
+	
+Draft W-U-B-G<https://melee.gg/Decklist/View/413300>
+	1-2-0	2-4-0	3
+184	
+Dillon Kikkawa<https://melee.gg/Profile/Index/Lostwanderer> They/Them
+	
+-
+	1-2-0	2-4-0	3
+185	
+Riccardo Biava<https://melee.gg/Profile/Index/bb155lm> He/Him
+	
+Draft B-R<https://melee.gg/Decklist/View/413372>
+	1-2-0	2-4-0	3
+186	
+Renan Corrêa<https://melee.gg/Profile/Index/Summerbabe> He/Him
+	
+-
+	1-2-0	2-4-1	3
+187	
+Jim Davis<https://melee.gg/Profile/Index/JimDavisMTG> He/Him
+	
+-
+	1-2-0	2-4-0	3
+188	
+greasfangking<https://melee.gg/Profile/Index/greasfangking>
+	
+-
+	1-2-0	2-4-0	3
+189	
+Matt Foreman<https://melee.gg/Profile/Index/mforeman12> He/Him
+	
+-
+	1-2-0	2-4-0	3
+190	
+Andreas Petersen<https://melee.gg/Profile/Index/ecobaronen>
+	
+-
+	1-2-0	2-4-0	3
+191	
+Yuxuan Zhang<https://melee.gg/Profile/Index/ZYX_Jerry>
+	
+-
+	1-2-0	2-4-0	3
+192	
+Kai Budde<https://melee.gg/Profile/Index/Kai> He/Him
+	
+-
+	1-2-0	4-4-0	3
+193	
+Dagoberto Silva<https://melee.gg/Profile/Index/Diza> He/Him
+	
+-
+	1-2-0	3-4-0	3
+194	
+Joel Griebel<https://melee.gg/Profile/Index/Creaser>
+	
+-
+	1-2-0	3-5-0	3
+195	
+TwoThirds<https://melee.gg/Profile/Index/TwoThirds> He/Him
+	
+-
+	1-2-0	2-5-0	3
+196	
+Stefano Vinci<https://melee.gg/Profile/Index/Svinci> He/Him
+	
+-
+	1-2-0	4-4-0	3
+197	
+ShawnD<https://melee.gg/Profile/Index/ShawnD> He/Him
+	
+-
+	1-2-0	3-4-0	3
+198	
+Noah Michaud<https://melee.gg/Profile/Index/peenut>
+	
+-
+	1-2-0	3-4-0	3
+199	
+Keisuke Naitou<https://melee.gg/Profile/Index/Meloku123>
+	
+-
+	1-2-0	3-4-0	3
+200	
+Manuel Alejandro Morales Fernández<https://melee.gg/Profile/Index/
+Darthkid> He/Him
+	
+-
+	1-2-0	3-4-0	3
+
+Displaying 101 to 200 of 243 standings
+Previous123Next
+
+
+        Matches
+
+Round 1 Round 2 Round 3 Round 4 Round 5 Round 6 Round 7 Round 8 Round 9
+Round 10 Round 11 Round 12 Round 13 Round 14 Round 15 Round 16
+Quarterfinals Semifinals Finals
+Visibility
+Results Per Page
+
+25 per page
+50 per page
+100 per page
+250 per page
+500 per page
+Column Visibility
+
+Table
+
+Pod Number
+
+Players/Teams
+
+Decklists
+
+Result
+
+Reset <#>
+Apply
+
+Table	Players/Teams	Decklists	Result
+
+Table
+	
+Players/Teams
+	
+Decklists
+	
+Result
+25	
+shuhei nakamura<https://melee.gg/Profile/Index/nakshu>
+Sean Goddard<https://melee.gg/Profile/Index/Beekeeper> He/Him
+	
+Jeskai Control<https://melee.gg/Decklist/View/411810>
+Bant Nadu<https://melee.gg/Decklist/View/412015>
+	shuhei nakamura won 2-0-0
+26	
+Slax<https://melee.gg/Profile/Index/Slax> He/Him
+Samuele Estratti<https://melee.gg/Profile/Index/Samuele>
+	
+Jeskai Control<https://melee.gg/Decklist/View/412128>
+Eldrazi Tron<https://melee.gg/Decklist/View/411970>
+	Samuele Estratti won 2-0-0
+27	
+Matt Sperling<https://melee.gg/Profile/Index/Sperling>
+Rowan Millers<https://melee.gg/Profile/Index/Pandaexpress> He/Him
+	
+Esper Goryo's<https://melee.gg/Decklist/View/411879>
+Four-Color Nadu<https://melee.gg/Decklist/View/412144>
+	Matt Sperling won 2-0-0
+28	
+Joey Brautigam<https://melee.gg/Profile/Index/Dialect>
+Lucas Fernandes<https://melee.gg/Profile/Index/pururin> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/412151>
+Ruby Storm<https://melee.gg/Decklist/View/412014>
+	Joey Brautigam won 2-0-0
+29	
+Socrates Rozakeas<https://melee.gg/Profile/Index/eljelo>
+Nicole Tipple<https://melee.gg/Profile/Index/NicT17> She/Her
+	
+Mono-Black Grief<https://melee.gg/Decklist/View/411978>
+Bant Nadu<https://melee.gg/Decklist/View/411820>
+	Nicole Tipple won 2-1-0
+30	
+Francisco Sanchez<https://melee.gg/Profile/Index/Patxi>
+Nathan Basser<https://melee.gg/Profile/Index/NateBass> He/Him
+	
+Mono-Black Necro<https://melee.gg/Decklist/View/411833>
+Esper Goryo's<https://melee.gg/Decklist/View/412093>
+	Francisco Sanchez won 2-0-0
+31	
+Matthieu Tassa<https://melee.gg/Profile/Index/Iceburgfun>
+Jin Kim<https://melee.gg/Profile/Index/jinavie> He/Him
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/411754>
+Bant Nadu<https://melee.gg/Decklist/View/412170>
+	Matthieu Tassa won 2-1-0
+32	
+Alessandro Danesi<https://melee.gg/Profile/Index/VineMare> He/Him
+Adam Edelson<https://melee.gg/Profile/Index/_goblinlackey>
+	
+Domain Zoo<https://melee.gg/Decklist/View/412041>
+Bant Nadu<https://melee.gg/Decklist/View/412062>
+	Alessandro Danesi won 2-1-0
+33	
+Joseph Cruz<https://melee.gg/Profile/Index/Falco_Lombardi> He/Him
+Edgar Simmons<https://melee.gg/Profile/Index/Yarchimedes> He/Him
+	
+Mono-Black Grief<https://melee.gg/Decklist/View/410625>
+Boros Energy<https://melee.gg/Decklist/View/412002>
+	Edgar Simmons won 2-0-0
+34	
+Martin Quiroga<https://melee.gg/Profile/Index/Pintusa> He/Him
+Andreas Petersen<https://melee.gg/Profile/Index/ecobaronen>
+	
+Sultai Vengevine<https://melee.gg/Decklist/View/412012>
+Gruul Prowess<https://melee.gg/Decklist/View/411939>
+	Martin Quiroga won 2-1-0
+35	
+Charles Eiler<https://melee.gg/Profile/Index/StraightShade>
+Takumi Matsuura<https://melee.gg/Profile/Index/ura_frst>
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/411925>
+Mardu Energy<https://melee.gg/Decklist/View/411769>
+	Charles Eiler won 2-0-0
+36	
+Reid Duke<https://melee.gg/Profile/Index/Reiderrabbit>
+John Puglisi Clark<https://melee.gg/Profile/Index/Skeptic2304>
+	
+Mono-Black Necro<https://melee.gg/Decklist/View/412100>
+Jeskai Control<https://melee.gg/Decklist/View/411914>
+	Reid Duke won 2-1-0
+37	
+London Glenn<https://melee.gg/Profile/Index/killerwhale1984> He/Him
+Matt Sikkink Johnson<https://melee.gg/Profile/Index/MSJ> He/Him
+	
+Boros Energy<https://melee.gg/Decklist/View/412049>
+Temur Eldrazi<https://melee.gg/Decklist/View/411863>
+	London Glenn won 2-1-0
+38	
+Adrián Iñigo Tastet<https://melee.gg/Profile/Index/itsadromc>
+Martin Dominguez<https://melee.gg/Profile/Index/Rulo>
+	
+Jeskai Control<https://melee.gg/Decklist/View/412121>
+Jeskai Control<https://melee.gg/Decklist/View/412045>
+	Martin Dominguez won 2-0-0
+39	
+Mark Stanton<https://melee.gg/Profile/Index/M4RK> He/Him
+Quinn Tonole<https://melee.gg/Profile/Index/quinniac>
+	
+Four-Color Nadu<https://melee.gg/Decklist/View/411931>
+Boros Burn<https://melee.gg/Decklist/View/412073>
+	Mark Stanton won 2-1-0
+40	
+Rodrigo Pinheiro<https://melee.gg/Profile/Index/royce> He/Him
+Julius Fan<https://melee.gg/Profile/Index/Fauxglove> He/They
+	
+Izzet Murktide<https://melee.gg/Decklist/View/411776>
+Jeskai Dress Down<https://melee.gg/Decklist/View/411972>
+	Rodrigo Pinheiro won 2-1-0
+41	
+Sam Rolph<https://melee.gg/Profile/Index/Phill_Hellmuthmtg> He/Him
+Steven Minelli<https://melee.gg/Profile/Index/Stewie15>
+	
+Ruby Storm<https://melee.gg/Decklist/View/412028>
+Eldrazi Tron<https://melee.gg/Decklist/View/411994>
+	Steven Minelli won 2-0-0
+42	
+Jia Bin<https://melee.gg/Profile/Index/AJ830803>
+Mitchell Tamblyn<https://melee.gg/Profile/Index/EmperorCrocodile>
+	
+Jeskai Control<https://melee.gg/Decklist/View/411916>
+Jeskai Control<https://melee.gg/Decklist/View/411934>
+	Mitchell Tamblyn won 1-0-0
+43	
+Ben Kleinsman-Leusink-Hill<https://melee.gg/Profile/Index/floptic> He/Him
+Lorenzo Terlizzi<https://melee.gg/Profile/Index/terlollo15>
+	
+Mono-Black Necro<https://melee.gg/Decklist/View/411417>
+Bant Nadu<https://melee.gg/Decklist/View/412061>
+	Lorenzo Terlizzi won 2-1-0
+44	
+MASAHIDE MORIYAMA<https://melee.gg/Profile/Index/SakeIzumo>
+claudio miranda<https://melee.gg/Profile/Index/claudioh> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/411910>
+Golgari Yawgmoth<https://melee.gg/Decklist/View/411655>
+	MASAHIDE MORIYAMA won 2-1-0
+45	
+Alex Friedrichsen<https://melee.gg/Profile/Index/AelaleA37>
+cftsoc<https://melee.gg/Profile/Index/cftsoc>
+	
+Bant Nadu<https://melee.gg/Decklist/View/411762>
+Four-Color Reclamation<https://melee.gg/Decklist/View/412185>
+	cftsoc won 2-0-0
+46	
+Anthony Lee<https://melee.gg/Profile/Index/mtgbentcard> He/Him
+Mingyang Chen<https://melee.gg/Profile/Index/MingyangChen> He/Him
+	
+Jeskai Control<https://melee.gg/Decklist/View/412119>
+Jeskai Dress Down<https://melee.gg/Decklist/View/412071>
+	Mingyang Chen won 2-0-0
+47	
+Shota Yasooka<https://melee.gg/Profile/Index/yaya3> He/Him
+Luis Scott-Vargas<https://melee.gg/Profile/Index/LSV>
+	
+Jeskai Wizards<https://melee.gg/Decklist/View/412130>
+Ruby Storm<https://melee.gg/Decklist/View/411985>
+	Luis Scott-Vargas won 2-1-0
+48	
+Laurens Van der Beek<https://melee.gg/Profile/Index/Thegreedygrill>
+Jose Gabriel Hilario<https://melee.gg/Profile/Index/Raydric> He/Him
+	
+Golgari Yawgmoth<https://melee.gg/Decklist/View/411999>
+Four-Color Nadu<https://melee.gg/Decklist/View/411959>
+	Laurens Van der Beek won 2-1-0
+49	
+Borja Yañez Carvajal<https://melee.gg/Profile/Index/Psyco13>
+Connor Mullaly<https://melee.gg/Profile/Index/MullMoney> He/Him
+	
+Bant Nadu<https://melee.gg/Decklist/View/411839>
+Four-Color Nadu<https://melee.gg/Decklist/View/411946>
+	Connor Mullaly won 2-0-0
+
+Displaying 26 to 50 of 106 matches
+Previous12345Next
+GET HELP
+<https://discord.melee.gg/>
+
+
+          Send a message to the organizer
+
+
+×
+
+We apologize for any inconvenience you're facing. To help us assist you,
+please select the issue type that best describes your problem.
+
+By selecting an issue, an email will be automatically sent to the event
+organizer. They will get in touch with you as soon as possible.
+
+Issue Registering
+Select this if you're experiencing difficulties while trying to register
+for the tournament.
+Pairings/Standings Incorrect
+If you see incorrect information in the matches or standings, report it
+here.
+Decklist Incorrect
+Choose this if your submitted decklist is incorrect and needs revision.
+General Question
+For all other general queries related to the tournament.
+Question about Tournament Rules
+If you're uncertain or confused about specific tournament rules, ask here.
+Fixed Table
+Select this if there's an issue with your assigned table.
+
+To help us resolve your issue more efficiently, please provide a
+detailed description below.
+
+Submit Support Ticket
+
+Deutsch <#> 	English <#> 	Español <#> 	Français <#> 	Italiano <#> 	
+Português <#> 	中文 <#> 	日本語 <#>
+
+* Support for card names and card images in other languages can be found
+in your Melee user settings <https://melee.gg/Profile/Settings>.
+
+
+            Follow Us
+
+<https://www.facebook.com/Melee.gg> <https://discord.melee.gg/>
+<https://www.youtube.com/channel/UCjxW1N9I0xpKc6fwoAJNxnw>
+
+
+            Tournaments
+
+Tournaments <https://melee.gg/Tournament/Index> Become an Organizer
+<https://melee.gg/Organization/Create> Decklists <https://melee.gg/
+Decklists>
+
+
+            Helpful Links
+
+Documentation and Guides <https://help.melee.gg/> Frequently Asked
+Questions <https://melee.gg/Home/Faq> Entry Fees and Payments <https://
+melee.gg/Policy/Payments> Service Level Agreements <https://melee.gg/
+Policy/SLA> Data API <https://melee.gg/swagger>
+
+
+            Melee
+
+Contact <https://melee.gg/Home/Contact> What's New <https://melee.gg/
+Home/WhatsNew> About Us <https://melee.gg/Home/About> Careers and
+Opportunities <https://melee.gg/Home/Careers>
+Legal Information
+Privacy Policy <https://melee.gg/Policy/Privacy> | Terms of Service
+<https://melee.gg/Policy/Terms> | Cookies Policy <https://melee.gg/
+Policy/Cookies> | Cookies Settings <#> | Report Unauthorized Data
+Sharing <https://melee.gg/Policy/SubmitPrivacyReport>
+All original content on this page is © 2019-2024 Keyrune Incorporated,
+its licensors, or its partners and may not be used or reproduced without
+explicit permission. All trademarks are the property of their respective
+owners.
+
+Ok
+
+//Yes
+
+No
+
+Submit
+
+Cancel
+
+
+          -
+
+
+×
+
+
+          Audit Logs
+
+
+×
+

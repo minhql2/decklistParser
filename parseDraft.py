@@ -1,49 +1,60 @@
 import csv
+import re
 
-def parsePage(decklistDict, count, dictCount, lines):
+def parseDraft(decklistDict, lines, nameDict):
+    seenPoints = False
+    seenNumber = False
+    seenName = False
+    number = 0
+
+    pointsPattern = re.compile("Points")
+    numberPattern = re.compile("[0-9]+")
+    pattern = re.compile("([0-9]+(-[0-9]+)+)")
+    endPattern = re.compile("Displaying")
+
     for line in lines:
-        count+=1
-        if (((count+3) % 5) == 0 and count > 1):
+
+        if endPattern.match(line):
+            return
+
+        if pointsPattern.match(line):
+            seenPoints = True
+
+        if not seenPoints:
+            continue
+
+        if numberPattern.match(line):
+            seenNumber = True
+            number = int(line)
+        elif seenNumber and not seenName:
             name = line.split('<')[0]
-            decklistDict[dictCount] = (name, "")
-        elif (count % 5 == 0):
+            nameDict[number] = name
+            seenName = True
+        elif seenNumber and seenName:
             if(len(line.split("\t")) <= 1):
                 continue
-            standing = line.split("\t")[1]
-            decklist = decklistDict.get(dictCount)
-            decklistDict[dictCount] = (decklist[0], standing)
-            dictCount+=1
 
-file1 = open('draft1.txt', 'r')
+            standing = line.split("\t")[1]
+            if pattern.match(standing):
+                name = nameDict.get(number)
+                decklistDict[name] = (standing)
+                seenName = False
+                seenNumber = False
+
+file1 = open('rawFileBetter.txt', 'r')
 lines1 = file1.readlines()
 
 decklistDict = {}
+nameDict = {}
 
-count = 0
-dictCount = 0
-parsePage(decklistDict, count, dictCount, lines1)
+parseDraft(decklistDict, lines1, nameDict)
 
-file2 = open('draft2.txt', 'r', encoding="utf8")
-lines2 = file2.readlines()
-
-count = 100
-dictCount = 100
-parsePage(decklistDict, count, dictCount, lines2)
-
-file3 = open('draft3.txt', 'r')
-lines3 = file3.readlines()
-
-count = 200
-dictCount = 200
-parsePage(decklistDict, count, dictCount, lines3)
-
-
-with open('decklists.csv', 'w', encoding="utf8") as csv_file:
+with open('decklists.csv', 'w') as csv_file:
     writer = csv.writer(csv_file)
     writer.writerow(('Standing', 'Deck', "Wins", "Losses", "Draws"))
     for key, value in decklistDict.items():
-        record = value[1].split('-')
+        record = value.split('-')
         if(len(record)<3):
             continue
-        writer.writerow([key, value[0], record[0], record[1], record[2]])
+        writer.writerow([key, record[0], record[1], record[2]])
     
